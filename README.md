@@ -8,9 +8,13 @@ Game from scratch.mit.edu
 Special Thanks:
 
 Game:Scratch Team and Scratch Fans
+
 Converter:TurboWarp Packager
+
 Installer:Inno Setup
+
 Downloader:Aria2
+
 Extract Tool:7zip
 
 
